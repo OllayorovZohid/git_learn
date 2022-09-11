@@ -1,1 +1,2 @@
 1--qism
+git pull buyrug'i uchun maxsus o'zgarishlar
